@@ -1,4 +1,4 @@
-Django
+django
 langchain
 PyPDF2
 python-dotenv
