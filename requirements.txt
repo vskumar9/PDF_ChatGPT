@@ -2,8 +2,6 @@ django
 langchain
 PyPDF2
 python-dotenv
-streamlit
-faiss-cpu
 streamlit-extras
 tiktoken
 openai

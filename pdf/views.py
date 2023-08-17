@@ -1,9 +1,7 @@
-import dotenv
 from django.shortcuts import render
 from PyPDF2 import PdfReader
 import os
 import pickle
-from django.conf import settings
 from dotenv import load_dotenv
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain.embeddings.openai import OpenAIEmbeddings
